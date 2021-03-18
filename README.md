@@ -1,6 +1,8 @@
 ## Hi! I am Eli Labourne 👋
 
-I'm currently learning Angular and Java 🐸👽👾
+I'm currently learning Angular and Java 🐸👽👾 
+
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
 <img src="https://github-readme-stats.vercel.app/api?username=imelilabourne&&show_icons=true&title_color=#faf9f5&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <!--
